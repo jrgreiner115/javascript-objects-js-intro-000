@@ -1,1 +1,6 @@
-var playlist = {m83 : "Midnight City"}
+var playlist = {artist : "song"}
+
+function updatePlaylist(playlist, artist, song) {
+  
+  
+}
